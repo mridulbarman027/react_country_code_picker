@@ -1,0 +1,2362 @@
+[
+    {
+        "countryCode": "in",
+        "countryName": "India",
+        "countryNameAndCode": "India (+91)",
+        "code": 91,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2245px"
+        }
+    },
+    {
+        "countryCode": "af",
+        "countryName": "Afghanistan",
+        "countryNameAndCode": "Afghanistan (+93)",
+        "code": 93,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3180px"
+        }
+    },
+    {
+        "countryCode": "al",
+        "countryName": "Albania",
+        "countryNameAndCode": "Albania (+355)",
+        "code": 355,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1310px"
+        }
+    },
+    {
+        "countryCode": "dz",
+        "countryName": "Algeria",
+        "countryNameAndCode": "Algeria (+213)",
+        "code": 213,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-681px"
+        }
+    },
+    {
+        "countryCode": "as",
+        "countryName": "American",
+        "countryNameAndCode": "American Samoa (+1)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2058px"
+        }
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "countryNameAndCode": "Andorra (+376)",
+        "code": 376,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-766px"
+        }
+    },
+    {
+        "countryCode": "ao",
+        "countryName": "Angola",
+        "countryNameAndCode": "Angola (+244)",
+        "code": 244,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2636px"
+        }
+    },
+    {
+        "countryCode": "ai",
+        "countryName": "Anguilla",
+        "countryNameAndCode": "Anguilla (+1)",
+        "code": 1,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2687px"
+        }
+    },
+    {
+        "countryCode": "ag",
+        "countryName": "Antigua",
+        "countryNameAndCode": "Antigua & Barbuda (+1)",
+        "code": 0,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1140px"
+        }
+    },
+    {
+        "countryCode": "ar",
+        "countryName": "Argentina",
+        "countryNameAndCode": "Argentina (+54)",
+        "code": 54,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3282px"
+        }
+    },
+    {
+        "countryCode": "am",
+        "countryName": "Armenia",
+        "countryNameAndCode": "Armenia (+374)",
+        "code": 374,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-205px"
+        }
+    },
+    {
+        "countryCode": "aw",
+        "countryName": "Aruba",
+        "countryNameAndCode": "Aruba (+297)",
+        "code": 297,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1021px"
+        }
+    },
+    {
+        "countryCode": "ac",
+        "countryName": "Ascension",
+        "countryNameAndCode": "Ascension Island (+247)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-86px"
+        }
+    },
+    {
+        "countryCode": "au",
+        "countryName": "Australia",
+        "countryNameAndCode": "Australia (+61)",
+        "code": 61,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2279px"
+        }
+    },
+    {
+        "countryCode": "at",
+        "countryName": "Austria",
+        "countryNameAndCode": "Austria (+43)",
+        "code": 43,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1735px"
+        }
+    },
+    {
+        "countryCode": "az",
+        "countryName": "Azerbaijan",
+        "countryNameAndCode": "Azerbaijan (+994)",
+        "code": 994,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1599px"
+        }
+    },
+    {
+        "countryCode": "bs",
+        "countryName": "Bahamas",
+        "countryNameAndCode": "Bahamas (+1)",
+        "code": 1,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-460px"
+        }
+    },
+    {
+        "countryCode": "bh",
+        "countryName": "Bahrain",
+        "countryNameAndCode": "Bahrain (+973)",
+        "code": 973,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1956px"
+        }
+    },
+    {
+        "countryCode": "bd",
+        "countryName": "Bangladesh",
+        "countryNameAndCode": "Bangladesh (+880)",
+        "code": 880,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2364px"
+        }
+    },
+    {
+        "countryCode": "bb",
+        "countryName": "Barbados",
+        "countryNameAndCode": "Barbados (+1)",
+        "code": 1,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2075px"
+        }
+    },
+    {
+        "countryCode": "by",
+        "countryName": "Belarus",
+        "countryNameAndCode": "Belarus (+375)",
+        "code": 375,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1412px"
+        }
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "countryNameAndCode": "Belgium (+32)",
+        "code": 32,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1px"
+        }
+    },
+    {
+        "countryCode": "bz",
+        "countryName": "Belize",
+        "countryNameAndCode": "Belize (+501)",
+        "code": 501,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-613px"
+        }
+    },
+    {
+        "countryCode": "bj",
+        "countryName": "Benin",
+        "countryNameAndCode": "Benin (+229)",
+        "code": 229,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1684px"
+        }
+    },
+    {
+        "countryCode": "bm",
+        "countryName": "Bermuda",
+        "countryNameAndCode": "Bermuda (+1)",
+        "code": 1,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2585px"
+        }
+    },
+    {
+        "countryCode": "bt",
+        "countryName": "Bhutan",
+        "countryNameAndCode": "Bhutan (+975)",
+        "code": 975,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2483px"
+        }
+    },
+    {
+        "countryCode": "bo",
+        "countryName": "Bolivia",
+        "countryNameAndCode": "Bolivia (+591)",
+        "code": 591,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2177px"
+        }
+    },
+    {
+        "countryCode": "ba",
+        "countryName": "Bosnia",
+        "countryNameAndCode": "Bosnia & Herzegovina (+387)",
+        "code": 0,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2092px"
+        }
+    },
+    {
+        "countryCode": "bw",
+        "countryName": "Botswana",
+        "countryNameAndCode": "Botswana (+267)",
+        "code": 267,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3724px"
+        }
+    },
+    {
+        "countryCode": "br",
+        "countryName": "Brazil",
+        "countryNameAndCode": "Brazil (+55)",
+        "code": 55,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1004px"
+        }
+    },
+    {
+        "countryCode": "io",
+        "countryName": "British",
+        "countryNameAndCode": "British Indian Ocean Territory\n                (+246)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-86px"
+        }
+    },
+    {
+        "countryCode": "vg",
+        "countryName": "British",
+        "countryNameAndCode": "British Virgin Islands (+1)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1854px"
+        }
+    },
+    {
+        "countryCode": "bn",
+        "countryName": "Brunei",
+        "countryNameAndCode": "Brunei (+673)",
+        "code": 673,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2228px"
+        }
+    },
+    {
+        "countryCode": "bg",
+        "countryName": "Bulgaria",
+        "countryNameAndCode": "Bulgaria (+359)",
+        "code": 359,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3537px"
+        }
+    },
+    {
+        "countryCode": "bf",
+        "countryName": "Burkina",
+        "countryNameAndCode": "Burkina Faso (+226)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-953px"
+        }
+    },
+    {
+        "countryCode": "bi",
+        "countryName": "Burundi",
+        "countryNameAndCode": "Burundi (+257)",
+        "code": 257,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2551px"
+        }
+    },
+    {
+        "countryCode": "kh",
+        "countryName": "Cambodia",
+        "countryNameAndCode": "Cambodia (+855)",
+        "code": 855,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-290px"
+        }
+    },
+    {
+        "countryCode": "cm",
+        "countryName": "Cameroon",
+        "countryNameAndCode": "Cameroon (+237)",
+        "code": 237,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2806px"
+        }
+    },
+    {
+        "countryCode": "ca",
+        "countryName": "Canada",
+        "countryNameAndCode": "Canada (+1)",
+        "code": 1,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1803px"
+        }
+    },
+    {
+        "countryCode": "cv",
+        "countryName": "Cape",
+        "countryNameAndCode": "Cape Verde (+238)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3639px"
+        }
+    },
+    {
+        "countryCode": "bq",
+        "countryName": "Caribbean",
+        "countryNameAndCode": "Caribbean Netherlands (+599)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3741px"
+        }
+    },
+    {
+        "countryCode": "ky",
+        "countryName": "Cayman",
+        "countryNameAndCode": "Cayman Islands (+1)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-375px"
+        }
+    },
+    {
+        "countryCode": "cf",
+        "countryName": "Central",
+        "countryNameAndCode": "Central African Republic (+236)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2466px"
+        }
+    },
+    {
+        "countryCode": "td",
+        "countryName": "Chad",
+        "countryNameAndCode": "Chad (+235)",
+        "code": 235,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1055px"
+        }
+    },
+    {
+        "countryCode": "cl",
+        "countryName": "Chile",
+        "countryNameAndCode": "Chile (+56)",
+        "code": 56,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1752px"
+        }
+    },
+    {
+        "countryCode": "cn",
+        "countryName": "China",
+        "countryNameAndCode": "China (+86)",
+        "code": 86,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1072px"
+        }
+    },
+    {
+        "countryCode": "co",
+        "countryName": "Colombia",
+        "countryNameAndCode": "Colombia (+57)",
+        "code": 57,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-409px"
+        }
+    },
+    {
+        "countryCode": "km",
+        "countryName": "Comoros",
+        "countryNameAndCode": "Comoros (+269)",
+        "code": 269,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1871px"
+        }
+    },
+    {
+        "countryCode": "cg",
+        "countryName": "Congo",
+        "countryNameAndCode": "Congo - Brazzaville (+242)",
+        "code": 0,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2398px"
+        }
+    },
+    {
+        "countryCode": "cd",
+        "countryName": "Congo",
+        "countryNameAndCode": "Congo - Kinshasa (+243)",
+        "code": 0,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1990px"
+        }
+    },
+    {
+        "countryCode": "ck",
+        "countryName": "Cook",
+        "countryNameAndCode": "Cook Islands (+682)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3112px"
+        }
+    },
+    {
+        "countryCode": "cr",
+        "countryName": "Costa",
+        "countryNameAndCode": "Costa Rica (+506)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2857px"
+        }
+    },
+    {
+        "countryCode": "ci",
+        "countryName": "Côte",
+        "countryNameAndCode": "Côte d’Ivoire (+225)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2194px"
+        }
+    },
+    {
+        "countryCode": "hr",
+        "countryName": "Croatia",
+        "countryNameAndCode": "Croatia (+385)",
+        "code": 385,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1174px"
+        }
+    },
+    {
+        "countryCode": "cu",
+        "countryName": "Cuba",
+        "countryNameAndCode": "Cuba (+53)",
+        "code": 53,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-987px"
+        }
+    },
+    {
+        "countryCode": "cw",
+        "countryName": "Curaçao",
+        "countryNameAndCode": "Curaçao (+599)",
+        "code": 599,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3758px"
+        }
+    },
+    {
+        "countryCode": "cy",
+        "countryName": "Cyprus",
+        "countryNameAndCode": "Cyprus (+357)",
+        "code": 357,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-732px"
+        }
+    },
+    {
+        "countryCode": "cz",
+        "countryName": "Czechia",
+        "countryNameAndCode": "Czechia (+420)",
+        "code": 420,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3095px"
+        }
+    },
+    {
+        "countryCode": "dk",
+        "countryName": "Denmark",
+        "countryNameAndCode": "Denmark (+45)",
+        "code": 45,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1820px"
+        }
+    },
+    {
+        "countryCode": "dj",
+        "countryName": "Djibouti",
+        "countryNameAndCode": "Djibouti (+253)",
+        "code": 253,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2874px"
+        }
+    },
+    {
+        "countryCode": "dm",
+        "countryName": "Dominica",
+        "countryNameAndCode": "Dominica (+1)",
+        "code": 1,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3350px"
+        }
+    },
+    {
+        "countryCode": "do",
+        "countryName": "Dominican",
+        "countryNameAndCode": "Dominican Republic (+1)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2007px"
+        }
+    },
+    {
+        "countryCode": "ec",
+        "countryName": "Ecuador",
+        "countryNameAndCode": "Ecuador (+593)",
+        "code": 593,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1531px"
+        }
+    },
+    {
+        "countryCode": "eg",
+        "countryName": "Egypt",
+        "countryNameAndCode": "Egypt (+20)",
+        "code": 20,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3027px"
+        }
+    },
+    {
+        "countryCode": "sv",
+        "countryName": "El",
+        "countryNameAndCode": "El Salvador (+503)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2160px"
+        }
+    },
+    {
+        "countryCode": "gq",
+        "countryName": "Equatorial",
+        "countryNameAndCode": "Equatorial Guinea (+240)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1973px"
+        }
+    },
+    {
+        "countryCode": "er",
+        "countryName": "Eritrea",
+        "countryNameAndCode": "Eritrea (+291)",
+        "code": 291,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-936px"
+        }
+    },
+    {
+        "countryCode": "ee",
+        "countryName": "Estonia",
+        "countryNameAndCode": "Estonia (+372)",
+        "code": 372,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3333px"
+        }
+    },
+    {
+        "countryCode": "sz",
+        "countryName": "Eswatini",
+        "countryNameAndCode": "Eswatini (+268)",
+        "code": 268,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3129px"
+        }
+    },
+    {
+        "countryCode": "et",
+        "countryName": "Ethiopia",
+        "countryNameAndCode": "Ethiopia (+251)",
+        "code": 251,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3367px"
+        }
+    },
+    {
+        "countryCode": "fk",
+        "countryName": "Falkland",
+        "countryNameAndCode": "Falkland Islands (Islas Malvinas)\n                (+500)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3809px"
+        }
+    },
+    {
+        "countryCode": "fo",
+        "countryName": "Faroe",
+        "countryNameAndCode": "Faroe Islands (+298)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1429px"
+        }
+    },
+    {
+        "countryCode": "fj",
+        "countryName": "Fiji",
+        "countryNameAndCode": "Fiji (+679)",
+        "code": 679,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2500px"
+        }
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "countryNameAndCode": "Finland (+358)",
+        "code": 358,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2568px"
+        }
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "countryNameAndCode": "France (+33)",
+        "code": 33,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-324px"
+        }
+    },
+    {
+        "countryCode": "gf",
+        "countryName": "French",
+        "countryNameAndCode": "French Guiana (+594)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-324px"
+        }
+    },
+    {
+        "countryCode": "pf",
+        "countryName": "French",
+        "countryNameAndCode": "French Polynesia (+689)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2262px"
+        }
+    },
+    {
+        "countryCode": "ga",
+        "countryName": "Gabon",
+        "countryNameAndCode": "Gabon (+241)",
+        "code": 241,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1157px"
+        }
+    },
+    {
+        "countryCode": "gm",
+        "countryName": "Gambia",
+        "countryNameAndCode": "Gambia (+220)",
+        "code": 220,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-817px"
+        }
+    },
+    {
+        "countryCode": "ge",
+        "countryName": "Georgia",
+        "countryNameAndCode": "Georgia (+995)",
+        "code": 995,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1123px"
+        }
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "countryNameAndCode": "Germany (+49)",
+        "code": 49,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3452px"
+        }
+    },
+    {
+        "countryCode": "gh",
+        "countryName": "Ghana",
+        "countryNameAndCode": "Ghana (+233)",
+        "code": 233,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2891px"
+        }
+    },
+    {
+        "countryCode": "gi",
+        "countryName": "Gibraltar",
+        "countryNameAndCode": "Gibraltar (+350)",
+        "code": 350,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-341px"
+        }
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "countryNameAndCode": "Greece (+30)",
+        "code": 30,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-188px"
+        }
+    },
+    {
+        "countryCode": "gl",
+        "countryName": "Greenland",
+        "countryNameAndCode": "Greenland (+299)",
+        "code": 299,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2347px"
+        }
+    },
+    {
+        "countryCode": "gd",
+        "countryName": "Grenada",
+        "countryNameAndCode": "Grenada (+1)",
+        "code": 1,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3316px"
+        }
+    },
+    {
+        "countryCode": "gp",
+        "countryName": "Guadeloupe",
+        "countryNameAndCode": "Guadeloupe (+590)",
+        "code": 590,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-511px"
+        }
+    },
+    {
+        "countryCode": "gu",
+        "countryName": "Guam",
+        "countryNameAndCode": "Guam (+1)",
+        "code": 1,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3265px"
+        }
+    },
+    {
+        "countryCode": "gt",
+        "countryName": "Guatemala",
+        "countryNameAndCode": "Guatemala (+502)",
+        "code": 502,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1208px"
+        }
+    },
+    {
+        "countryCode": "gn",
+        "countryName": "Guinea",
+        "countryNameAndCode": "Guinea (+224)",
+        "code": 224,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3520px"
+        }
+    },
+    {
+        "countryCode": "gw",
+        "countryName": "Guinea-Bissau",
+        "countryNameAndCode": "Guinea-Bissau (+245)",
+        "code": 245,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2602px"
+        }
+    },
+    {
+        "countryCode": "gy",
+        "countryName": "Guyana",
+        "countryNameAndCode": "Guyana (+592)",
+        "code": 592,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1038px"
+        }
+    },
+    {
+        "countryCode": "ht",
+        "countryName": "Haiti",
+        "countryNameAndCode": "Haiti (+509)",
+        "code": 509,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-392px"
+        }
+    },
+    {
+        "countryCode": "hn",
+        "countryName": "Honduras",
+        "countryNameAndCode": "Honduras (+504)",
+        "code": 504,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2959px"
+        }
+    },
+    {
+        "countryCode": "hk",
+        "countryName": "Hong",
+        "countryNameAndCode": "Hong Kong (+852)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3707px"
+        }
+    },
+    {
+        "countryCode": "hu",
+        "countryName": "Hungary",
+        "countryNameAndCode": "Hungary (+36)",
+        "code": 36,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-902px"
+        }
+    },
+    {
+        "countryCode": "is",
+        "countryName": "Iceland",
+        "countryNameAndCode": "Iceland (+354)",
+        "code": 354,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2704px"
+        }
+    },
+    {
+        "countryCode": "in",
+        "countryName": "India",
+        "countryNameAndCode": "India (+91)",
+        "code": 91,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2245px"
+        }
+    },
+    {
+        "countryCode": "id",
+        "countryName": "Indonesia",
+        "countryNameAndCode": "Indonesia (+62)",
+        "code": 62,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2653px"
+        }
+    },
+    {
+        "countryCode": "ir",
+        "countryName": "Iran",
+        "countryNameAndCode": "Iran (+98)",
+        "code": 98,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2738px"
+        }
+    },
+    {
+        "countryCode": "iq",
+        "countryName": "Iraq",
+        "countryNameAndCode": "Iraq (+964)",
+        "code": 964,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-851px"
+        }
+    },
+    {
+        "countryCode": "ie",
+        "countryName": "Ireland",
+        "countryNameAndCode": "Ireland (+353)",
+        "code": 353,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2670px"
+        }
+    },
+    {
+        "countryCode": "il",
+        "countryName": "Israel",
+        "countryNameAndCode": "Israel (+972)",
+        "code": 972,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-426px"
+        }
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "countryNameAndCode": "Italy (+39)",
+        "code": 39,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-154px"
+        }
+    },
+    {
+        "countryCode": "jm",
+        "countryName": "Jamaica",
+        "countryNameAndCode": "Jamaica (+1)",
+        "code": 1,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2296px"
+        }
+    },
+    {
+        "countryCode": "jp",
+        "countryName": "Japan",
+        "countryNameAndCode": "Japan (+81)",
+        "code": 81,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-528px"
+        }
+    },
+    {
+        "countryCode": "jo",
+        "countryName": "Jordan",
+        "countryNameAndCode": "Jordan (+962)",
+        "code": 962,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1905px"
+        }
+    },
+    {
+        "countryCode": "kz",
+        "countryName": "Kazakhstan",
+        "countryNameAndCode": "Kazakhstan (+7)",
+        "code": 7,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1565px"
+        }
+    },
+    {
+        "countryCode": "ke",
+        "countryName": "Kenya",
+        "countryNameAndCode": "Kenya (+254)",
+        "code": 254,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3605px"
+        }
+    },
+    {
+        "countryCode": "ki",
+        "countryName": "Kiribati",
+        "countryNameAndCode": "Kiribati (+686)",
+        "code": 686,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-477px"
+        }
+    },
+    {
+        "countryCode": "xk",
+        "countryName": "Kosovo",
+        "countryNameAndCode": "Kosovo (+383)",
+        "code": 383,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3860px"
+        }
+    },
+    {
+        "countryCode": "kw",
+        "countryName": "Kuwait",
+        "countryNameAndCode": "Kuwait (+965)",
+        "code": 965,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3435px"
+        }
+    },
+    {
+        "countryCode": "kg",
+        "countryName": "Kyrgyzstan",
+        "countryNameAndCode": "Kyrgyzstan (+996)",
+        "code": 996,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2143px"
+        }
+    },
+    {
+        "countryCode": "la",
+        "countryName": "Laos",
+        "countryNameAndCode": "Laos (+856)",
+        "code": 856,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-562px"
+        }
+    },
+    {
+        "countryCode": "lv",
+        "countryName": "Latvia",
+        "countryNameAndCode": "Latvia (+371)",
+        "code": 371,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2619px"
+        }
+    },
+    {
+        "countryCode": "lb",
+        "countryName": "Lebanon",
+        "countryNameAndCode": "Lebanon (+961)",
+        "code": 961,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1616px"
+        }
+    },
+    {
+        "countryCode": "ls",
+        "countryName": "Lesotho",
+        "countryNameAndCode": "Lesotho (+266)",
+        "code": 266,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3010px"
+        }
+    },
+    {
+        "countryCode": "lr",
+        "countryName": "Liberia",
+        "countryNameAndCode": "Liberia (+231)",
+        "code": 231,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2823px"
+        }
+    },
+    {
+        "countryCode": "ly",
+        "countryName": "Libya",
+        "countryNameAndCode": "Libya (+218)",
+        "code": 218,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-137px"
+        }
+    },
+    {
+        "countryCode": "li",
+        "countryName": "Liechtenstein",
+        "countryNameAndCode": "Liechtenstein (+423)",
+        "code": 423,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1276px"
+        }
+    },
+    {
+        "countryCode": "lt",
+        "countryName": "Lithuania",
+        "countryNameAndCode": "Lithuania (+370)",
+        "code": 370,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1446px"
+        }
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "countryNameAndCode": "Luxembourg (+352)",
+        "code": 352,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1922px"
+        }
+    },
+    {
+        "countryCode": "mo",
+        "countryName": "Macao",
+        "countryNameAndCode": "Macao (+853)",
+        "code": 853,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3554px"
+        }
+    },
+    {
+        "countryCode": "mg",
+        "countryName": "Madagascar",
+        "countryNameAndCode": "Madagascar (+261)",
+        "code": 261,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1667px"
+        }
+    },
+    {
+        "countryCode": "mw",
+        "countryName": "Malawi",
+        "countryNameAndCode": "Malawi (+265)",
+        "code": 265,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2942px"
+        }
+    },
+    {
+        "countryCode": "my",
+        "countryName": "Malaysia",
+        "countryNameAndCode": "Malaysia (+60)",
+        "code": 60,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2517px"
+        }
+    },
+    {
+        "countryCode": "mv",
+        "countryName": "Maldives",
+        "countryNameAndCode": "Maldives (+960)",
+        "code": 960,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-800px"
+        }
+    },
+    {
+        "countryCode": "ml",
+        "countryName": "Mali",
+        "countryNameAndCode": "Mali (+223)",
+        "code": 223,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3469px"
+        }
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "countryNameAndCode": "Malta (+356)",
+        "code": 356,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2041px"
+        }
+    },
+    {
+        "countryCode": "mh",
+        "countryName": "Marshall",
+        "countryNameAndCode": "Marshall Islands (+692)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1463px"
+        }
+    },
+    {
+        "countryCode": "mq",
+        "countryName": "Martinique",
+        "countryNameAndCode": "Martinique (+596)",
+        "code": 596,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-239px"
+        }
+    },
+    {
+        "countryCode": "mr",
+        "countryName": "Mauritania",
+        "countryNameAndCode": "Mauritania (+222)",
+        "code": 222,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-307px"
+        }
+    },
+    {
+        "countryCode": "mu",
+        "countryName": "Mauritius",
+        "countryNameAndCode": "Mauritius (+230)",
+        "code": 230,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2993px"
+        }
+    },
+    {
+        "countryCode": "mx",
+        "countryName": "Mexico",
+        "countryNameAndCode": "Mexico (+52)",
+        "code": 52,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2755px"
+        }
+    },
+    {
+        "countryCode": "fm",
+        "countryName": "Micronesia",
+        "countryNameAndCode": "Micronesia (+691)",
+        "code": 691,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2313px"
+        }
+    },
+    {
+        "countryCode": "md",
+        "countryName": "Moldova",
+        "countryNameAndCode": "Moldova (+373)",
+        "code": 373,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3690px"
+        }
+    },
+    {
+        "countryCode": "mc",
+        "countryName": "Monaco",
+        "countryNameAndCode": "Monaco (+377)",
+        "code": 377,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1191px"
+        }
+    },
+    {
+        "countryCode": "mn",
+        "countryName": "Mongolia",
+        "countryNameAndCode": "Mongolia (+976)",
+        "code": 976,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3503px"
+        }
+    },
+    {
+        "countryCode": "me",
+        "countryName": "Montenegro",
+        "countryNameAndCode": "Montenegro (+382)",
+        "code": 382,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2976px"
+        }
+    },
+    {
+        "countryCode": "ms",
+        "countryName": "Montserrat",
+        "countryNameAndCode": "Montserrat (+1)",
+        "code": 1,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-749px"
+        }
+    },
+    {
+        "countryCode": "ma",
+        "countryName": "Morocco",
+        "countryNameAndCode": "Morocco (+212)",
+        "code": 212,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3214px"
+        }
+    },
+    {
+        "countryCode": "mz",
+        "countryName": "Mozambique",
+        "countryNameAndCode": "Mozambique (+258)",
+        "code": 258,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-834px"
+        }
+    },
+    {
+        "countryCode": "mm",
+        "countryName": "Myanmar",
+        "countryNameAndCode": "Myanmar (Burma) (+95)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-18px"
+        }
+    },
+    {
+        "countryCode": "na",
+        "countryName": "Namibia",
+        "countryNameAndCode": "Namibia (+264)",
+        "code": 264,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2534px"
+        }
+    },
+    {
+        "countryCode": "nr",
+        "countryName": "Nauru",
+        "countryNameAndCode": "Nauru (+674)",
+        "code": 674,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2330px"
+        }
+    },
+    {
+        "countryCode": "np",
+        "countryName": "Nepal",
+        "countryNameAndCode": "Nepal (+977)",
+        "code": 977,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-120px"
+        }
+    },
+    {
+        "countryCode": "nl",
+        "countryName": "Netherlands",
+        "countryNameAndCode": "Netherlands (+31)",
+        "code": 31,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1888px"
+        }
+    },
+    {
+        "countryCode": "nc",
+        "countryName": "New",
+        "countryNameAndCode": "New Caledonia (+687)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1650px"
+        }
+    },
+    {
+        "countryCode": "nz",
+        "countryName": "New",
+        "countryNameAndCode": "New Zealand (+64)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2024px"
+        }
+    },
+    {
+        "countryCode": "ni",
+        "countryName": "Nicaragua",
+        "countryNameAndCode": "Nicaragua (+505)",
+        "code": 505,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-171px"
+        }
+    },
+    {
+        "countryCode": "ne",
+        "countryName": "Niger",
+        "countryNameAndCode": "Niger (+227)",
+        "code": 227,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-715px"
+        }
+    },
+    {
+        "countryCode": "ng",
+        "countryName": "Nigeria",
+        "countryNameAndCode": "Nigeria (+234)",
+        "code": 234,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3418px"
+        }
+    },
+    {
+        "countryCode": "nu",
+        "countryName": "Niue",
+        "countryNameAndCode": "Niue (+683)",
+        "code": 683,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2840px"
+        }
+    },
+    {
+        "countryCode": "nf",
+        "countryName": "Norfolk",
+        "countryNameAndCode": "Norfolk Island (+672)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-256px"
+        }
+    },
+    {
+        "countryCode": "kp",
+        "countryName": "North",
+        "countryNameAndCode": "North Korea (+850)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2415px"
+        }
+    },
+    {
+        "countryCode": "mk",
+        "countryName": "North",
+        "countryNameAndCode": "North Macedonia (+389)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1769px"
+        }
+    },
+    {
+        "countryCode": "mp",
+        "countryName": "Northern",
+        "countryNameAndCode": "Northern Mariana Islands (+1)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-919px"
+        }
+    },
+    {
+        "countryCode": "no",
+        "countryName": "Norway",
+        "countryNameAndCode": "Norway (+47)",
+        "code": 47,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1089px"
+        }
+    },
+    {
+        "countryCode": "om",
+        "countryName": "Oman",
+        "countryNameAndCode": "Oman (+968)",
+        "code": 968,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3384px"
+        }
+    },
+    {
+        "countryCode": "pk",
+        "countryName": "Pakistan",
+        "countryNameAndCode": "Pakistan (+92)",
+        "code": 92,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2772px"
+        }
+    },
+    {
+        "countryCode": "pw",
+        "countryName": "Palau",
+        "countryNameAndCode": "Palau (+680)",
+        "code": 680,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-273px"
+        }
+    },
+    {
+        "countryCode": "ps",
+        "countryName": "Palestine",
+        "countryNameAndCode": "Palestine (+970)",
+        "code": 970,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1548px"
+        }
+    },
+    {
+        "countryCode": "pa",
+        "countryName": "Panama",
+        "countryNameAndCode": "Panama (+507)",
+        "code": 507,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1106px"
+        }
+    },
+    {
+        "countryCode": "pg",
+        "countryName": "Papua",
+        "countryNameAndCode": "Papua New Guinea (+675)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1939px"
+        }
+    },
+    {
+        "countryCode": "py",
+        "countryName": "Paraguay",
+        "countryNameAndCode": "Paraguay (+595)",
+        "code": 595,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3231px"
+        }
+    },
+    {
+        "countryCode": "pe",
+        "countryName": "Peru",
+        "countryNameAndCode": "Peru (+51)",
+        "code": 51,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1225px"
+        }
+    },
+    {
+        "countryCode": "ph",
+        "countryName": "Philippines",
+        "countryNameAndCode": "Philippines (+63)",
+        "code": 63,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2432px"
+        }
+    },
+    {
+        "countryCode": "pl",
+        "countryName": "Poland",
+        "countryNameAndCode": "Poland (+48)",
+        "code": 48,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1514px"
+        }
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "countryNameAndCode": "Portugal (+351)",
+        "code": 351,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-664px"
+        }
+    },
+    {
+        "countryCode": "pr",
+        "countryName": "Puerto",
+        "countryNameAndCode": "Puerto Rico (+1)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-596px"
+        }
+    },
+    {
+        "countryCode": "qa",
+        "countryName": "Qatar",
+        "countryNameAndCode": "Qatar (+974)",
+        "code": 974,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-579px"
+        }
+    },
+    {
+        "countryCode": "re",
+        "countryName": "Réunion",
+        "countryNameAndCode": "Réunion (+262)",
+        "code": 262,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-324px"
+        }
+    },
+    {
+        "countryCode": "ro",
+        "countryName": "Romania",
+        "countryNameAndCode": "Romania (+40)",
+        "code": 40,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-885px"
+        }
+    },
+    {
+        "countryCode": "ru",
+        "countryName": "Russia",
+        "countryNameAndCode": "Russia (+7)",
+        "code": 7,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-868px"
+        }
+    },
+    {
+        "countryCode": "rw",
+        "countryName": "Rwanda",
+        "countryNameAndCode": "Rwanda (+250)",
+        "code": 250,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3673px"
+        }
+    },
+    {
+        "countryCode": "ws",
+        "countryName": "Samoa",
+        "countryNameAndCode": "Samoa (+685)",
+        "code": 685,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3163px"
+        }
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San",
+        "countryNameAndCode": "San Marino (+378)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2908px"
+        }
+    },
+    {
+        "countryCode": "st",
+        "countryName": "São",
+        "countryNameAndCode": "São Tomé & Príncipe (+239)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3299px"
+        }
+    },
+    {
+        "countryCode": "sa",
+        "countryName": "Saudi",
+        "countryNameAndCode": "Saudi Arabia (+966)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-52px"
+        }
+    },
+    {
+        "countryCode": "sn",
+        "countryName": "Senegal",
+        "countryNameAndCode": "Senegal (+221)",
+        "code": 221,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2925px"
+        }
+    },
+    {
+        "countryCode": "rs",
+        "countryName": "Serbia",
+        "countryNameAndCode": "Serbia (+381)",
+        "code": 381,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3401px"
+        }
+    },
+    {
+        "countryCode": "sc",
+        "countryName": "Seychelles",
+        "countryNameAndCode": "Seychelles (+248)",
+        "code": 248,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1327px"
+        }
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "Sierra",
+        "countryNameAndCode": "Sierra Leone (+232)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-970px"
+        }
+    },
+    {
+        "countryCode": "sg",
+        "countryName": "Singapore",
+        "countryNameAndCode": "Singapore (+65)",
+        "code": 65,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-35px"
+        }
+    },
+    {
+        "countryCode": "sx",
+        "countryName": "Sint",
+        "countryNameAndCode": "Sint Maarten (+1)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3826px"
+        }
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "Slovakia",
+        "countryNameAndCode": "Slovakia (+421)",
+        "code": 421,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3044px"
+        }
+    },
+    {
+        "countryCode": "si",
+        "countryName": "Slovenia",
+        "countryNameAndCode": "Slovenia (+386)",
+        "code": 386,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1582px"
+        }
+    },
+    {
+        "countryCode": "sb",
+        "countryName": "Solomon",
+        "countryNameAndCode": "Solomon Islands (+677)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1361px"
+        }
+    },
+    {
+        "countryCode": "so",
+        "countryName": "Somalia",
+        "countryNameAndCode": "Somalia (+252)",
+        "code": 252,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1786px"
+        }
+    },
+    {
+        "countryCode": "za",
+        "countryName": "South",
+        "countryNameAndCode": "South Africa (+27)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3248px"
+        }
+    },
+    {
+        "countryCode": "kr",
+        "countryName": "South",
+        "countryNameAndCode": "South Korea (+82)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3078px"
+        }
+    },
+    {
+        "countryCode": "ss",
+        "countryName": "South",
+        "countryNameAndCode": "South Sudan (+211)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3775px"
+        }
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "countryNameAndCode": "Spain (+34)",
+        "code": 34,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1480px"
+        }
+    },
+    {
+        "countryCode": "lk",
+        "countryName": "Sri",
+        "countryNameAndCode": "Sri Lanka (+94)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3622px"
+        }
+    },
+    {
+        "countryCode": "bl",
+        "countryName": "St",
+        "countryNameAndCode": "St Barthélemy (+590)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-324px"
+        }
+    },
+    {
+        "countryCode": "sh",
+        "countryName": "St",
+        "countryNameAndCode": "St Helena (+290)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-630px"
+        }
+    },
+    {
+        "countryCode": "kn",
+        "countryName": "St",
+        "countryNameAndCode": "St Kitts & Nevis (+1)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-103px"
+        }
+    },
+    {
+        "countryCode": "lc",
+        "countryName": "St",
+        "countryNameAndCode": "St Lucia (+1)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1837px"
+        }
+    },
+    {
+        "countryCode": "mf",
+        "countryName": "St",
+        "countryNameAndCode": "St Martin (+590)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-86px"
+        }
+    },
+    {
+        "countryCode": "pm",
+        "countryName": "St",
+        "countryNameAndCode": "St Pierre & Miquelon (+508)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1378px"
+        }
+    },
+    {
+        "countryCode": "vc",
+        "countryName": "St",
+        "countryNameAndCode": "St Vincent & the Grenadines (+1)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3588px"
+        }
+    },
+    {
+        "countryCode": "sd",
+        "countryName": "Sudan",
+        "countryNameAndCode": "Sudan (+249)",
+        "code": 249,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-443px"
+        }
+    },
+    {
+        "countryCode": "sr",
+        "countryName": "Suriname",
+        "countryNameAndCode": "Suriname (+597)",
+        "code": 597,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3656px"
+        }
+    },
+    {
+        "countryCode": "se",
+        "countryName": "Sweden",
+        "countryNameAndCode": "Sweden (+46)",
+        "code": 46,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-494px"
+        }
+    },
+    {
+        "countryCode": "ch",
+        "countryName": "Switzerland",
+        "countryNameAndCode": "Switzerland (+41)",
+        "code": 41,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1718px"
+        }
+    },
+    {
+        "countryCode": "sy",
+        "countryName": "Syria",
+        "countryNameAndCode": "Syria (+963)",
+        "code": 963,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2449px"
+        }
+    },
+    {
+        "countryCode": "tw",
+        "countryName": "Taiwan",
+        "countryNameAndCode": "Taiwan (+886)",
+        "code": 886,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-647px"
+        }
+    },
+    {
+        "countryCode": "tj",
+        "countryName": "Tajikistan",
+        "countryNameAndCode": "Tajikistan (+992)",
+        "code": 992,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-222px"
+        }
+    },
+    {
+        "countryCode": "tz",
+        "countryName": "Tanzania",
+        "countryNameAndCode": "Tanzania (+255)",
+        "code": 255,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3146px"
+        }
+    },
+    {
+        "countryCode": "th",
+        "countryName": "Thailand",
+        "countryNameAndCode": "Thailand (+66)",
+        "code": 66,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1242px"
+        }
+    },
+    {
+        "countryCode": "tl",
+        "countryName": "Timor-Leste",
+        "countryNameAndCode": "Timor-Leste (+670)",
+        "code": 670,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3843px"
+        }
+    },
+    {
+        "countryCode": "tg",
+        "countryName": "Togo",
+        "countryNameAndCode": "Togo (+228)",
+        "code": 228,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-783px"
+        }
+    },
+    {
+        "countryCode": "tk",
+        "countryName": "Tokelau",
+        "countryNameAndCode": "Tokelau (+690)",
+        "code": 690,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3792px"
+        }
+    },
+    {
+        "countryCode": "to",
+        "countryName": "Tonga",
+        "countryNameAndCode": "Tonga (+676)",
+        "code": 676,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1395px"
+        }
+    },
+    {
+        "countryCode": "tt",
+        "countryName": "Trinidad",
+        "countryNameAndCode": "Trinidad & Tobago (+1)",
+        "code": 0,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-545px"
+        }
+    },
+    {
+        "countryCode": "tn",
+        "countryName": "Tunisia",
+        "countryNameAndCode": "Tunisia (+216)",
+        "code": 216,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-698px"
+        }
+    },
+    {
+        "countryCode": "tr",
+        "countryName": "Türkiye",
+        "countryNameAndCode": "Türkiye (+90)",
+        "code": 90,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2126px"
+        }
+    },
+    {
+        "countryCode": "tm",
+        "countryName": "Turkmenistan",
+        "countryNameAndCode": "Turkmenistan (+993)",
+        "code": 993,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3486px"
+        }
+    },
+    {
+        "countryCode": "tc",
+        "countryName": "Turks",
+        "countryNameAndCode": "Turks & Caicos Islands (+1)",
+        "code": 0,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1701px"
+        }
+    },
+    {
+        "countryCode": "tv",
+        "countryName": "Tuvalu",
+        "countryNameAndCode": "Tuvalu (+688)",
+        "code": 688,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-358px"
+        }
+    },
+    {
+        "countryCode": "ug",
+        "countryName": "Uganda",
+        "countryNameAndCode": "Uganda (+256)",
+        "code": 256,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1497px"
+        }
+    },
+    {
+        "countryCode": "ua",
+        "countryName": "Ukraine",
+        "countryNameAndCode": "Ukraine (+380)",
+        "code": 380,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2721px"
+        }
+    },
+    {
+        "countryCode": "ae",
+        "countryName": "United",
+        "countryNameAndCode": "United Arab Emirates (+971)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3061px"
+        }
+    },
+    {
+        "countryCode": "gb",
+        "countryName": "United",
+        "countryNameAndCode": "United Kingdom (+44)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-86px"
+        }
+    },
+    {
+        "countryCode": "us",
+        "countryName": "United",
+        "countryNameAndCode": "United States (+1)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-69px"
+        }
+    },
+    {
+        "countryCode": "uy",
+        "countryName": "Uruguay",
+        "countryNameAndCode": "Uruguay (+598)",
+        "code": 598,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3571px"
+        }
+    },
+    {
+        "countryCode": "vi",
+        "countryName": "US",
+        "countryNameAndCode": "US Virgin Islands (+1)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2381px"
+        }
+    },
+    {
+        "countryCode": "uz",
+        "countryName": "Uzbekistan",
+        "countryNameAndCode": "Uzbekistan (+998)",
+        "code": 998,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1293px"
+        }
+    },
+    {
+        "countryCode": "vu",
+        "countryName": "Vanuatu",
+        "countryNameAndCode": "Vanuatu (+678)",
+        "code": 678,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1633px"
+        }
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican",
+        "countryNameAndCode": "Vatican City (+39)",
+        "code": null,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-3197px"
+        }
+    },
+    {
+        "countryCode": "ve",
+        "countryName": "Venezuela",
+        "countryNameAndCode": "Venezuela (+58)",
+        "code": 58,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1344px"
+        }
+    },
+    {
+        "countryCode": "vn",
+        "countryName": "Vietnam",
+        "countryNameAndCode": "Vietnam (+84)",
+        "code": 84,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-1259px"
+        }
+    },
+    {
+        "countryCode": "wf",
+        "countryName": "Wallis",
+        "countryNameAndCode": "Wallis & Futuna (+681)",
+        "code": 0,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-324px"
+        }
+    },
+    {
+        "countryCode": "ye",
+        "countryName": "Yemen",
+        "countryNameAndCode": "Yemen (+967)",
+        "code": 967,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2211px"
+        }
+    },
+    {
+        "countryCode": "zm",
+        "countryName": "Zambia",
+        "countryNameAndCode": "Zambia (+260)",
+        "code": 260,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2109px"
+        }
+    },
+    {
+        "countryCode": "zw",
+        "countryName": "Zimbabwe",
+        "countryNameAndCode": "Zimbabwe (+263)",
+        "code": 263,
+        "backgroundPosition": {
+            "x": "-1px",
+            "y": "-2789px"
+        }
+    }
+]
