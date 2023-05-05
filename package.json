@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "author": "Mridul Barman",
   "description": "Country code picker used in google for React",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mridulbarman027/react_country_code_picker"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
