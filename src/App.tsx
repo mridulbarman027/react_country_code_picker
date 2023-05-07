@@ -1,6 +1,6 @@
 import './App.css';
-import PhoneNoInput from './component/PhoneNoInput';
 import { useState } from 'react';
+import PhoneNoInput from './component/PhoneNoInput';
 
 function App() {
   const [phoneNumber, setPhoneNumber] = useState<string>("");

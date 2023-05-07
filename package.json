@@ -8,7 +8,6 @@
     "url": "https://github.com/mridulbarman027/react_country_code_picker"
   },
   "dependencies": {
-    "@mridulbarman027/react_country_code_picker": "^0.1.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
