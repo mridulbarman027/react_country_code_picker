@@ -1,6 +1,6 @@
 {
   "name": "@mridulbarman027/react_country_code_picker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Mridul Barman",
   "description": "Country code picker used in google for React",
   "repository": {
@@ -52,12 +52,20 @@
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.2"
   },
-  "main": "/src/component/PhoneNoInput",
+  "main": "/src/index.ts",
   "keywords": [
     "country code picker",
     "auth",
     "login",
-    "phone input"
+    "phone input",
+    "react-native",
+    "country",
+    "country-code",
+    "dialing code",
+    "picker",
+    "mobile",
+    "ios",
+    "android"
   ],
   "license": "ISC"
 }
